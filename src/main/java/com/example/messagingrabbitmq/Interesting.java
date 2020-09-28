@@ -16,7 +16,7 @@ public class Interesting {
         System.out.println("Interesting <" + message + ">");
         latch.countDown();
     }
-
+//asdsadsdsadsadsadsadsadsadsa
     public CountDownLatch getLatch() {
         return latch;
     }
